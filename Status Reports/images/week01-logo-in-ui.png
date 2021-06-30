@@ -1,0 +1,14 @@
+--2021-06-30 09:57:39--  https://user-images.githubusercontent.com/42383989/120478222-3ed6b280-c3ca-11eb-8e01-50a183d1398a.png
+Resolving user-images.githubusercontent.com (user-images.githubusercontent.com)... 185.199.110.133, 185.199.108.133, 185.199.109.133, ...
+Connecting to user-images.githubusercontent.com (user-images.githubusercontent.com)|185.199.110.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 172093 (168K) [image/png]
+Saving to: ‘120478222-3ed6b280-c3ca-11eb-8e01-50a183d1398a.png’
+
+     0K .......... .......... .......... .......... .......... 29% 2.20M 0s
+    50K .......... .......... .......... .......... .......... 59% 3.75M 0s
+   100K .......... .......... .......... .......... .......... 89% 2.88M 0s
+   150K .......... ........                                   100% 1.37M=0.07s
+
+2021-06-30 09:57:39 (2.52 MB/s) - ‘120478222-3ed6b280-c3ca-11eb-8e01-50a183d1398a.png’ saved [172093/172093]
+
