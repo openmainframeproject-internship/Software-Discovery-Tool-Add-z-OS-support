@@ -14,5 +14,5 @@ a better understanding of the problems you encountered during the developmemnt o
 
 ## Project Team
 - *Elizabeth K. Joseph*  - *IBM* - Mentor
-- *Divya Goswami* - *University* - Mentee
-- *Indranil Mandal* - *University* - Mentee
+- *Divya Goswami* - *Heritage institute of Technology* - Mentee
+- *Indranil Mandal* - *Indian Institute of Technology Kanpur* - Mentee
