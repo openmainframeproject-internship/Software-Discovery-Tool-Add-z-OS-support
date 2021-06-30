@@ -1,11 +1,12 @@
 # Source Code Folder
-To be structured as needed by project team.
+Code for the Software Discovery Tool is being committed directly to the project:
 
-Please document here
+ * https://github.com/openmainframeproject/software-discovery-tool
+
 | Subdirectory Name | Description |
 |---|---|
-| | |
-| | |
+| [software-discovery-tool/src](https://github.com/openmainframeproject/software-discovery-tool/tree/master/src) | Core system code  |
+| software-discovery-tool/bin | Miscellaneous tools for managing the tool (forthcoming) |
 | | |
 | | |
 | | |
