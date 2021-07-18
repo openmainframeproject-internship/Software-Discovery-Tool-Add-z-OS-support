@@ -6,7 +6,7 @@ Code for the Software Discovery Tool is being committed directly to the project:
 | Subdirectory Name | Description |
 |---|---|
 | [software-discovery-tool/src](https://github.com/openmainframeproject/software-discovery-tool/tree/master/src) | Core system code  |
-| software-discovery-tool/bin | Miscellaneous tools for managing the tool (forthcoming) |
+| [software-discovery-tool/bin](https://github.com/openmainframeproject/software-discovery-tool/tree/master/bin) | Miscellaneous tools for managing the tool |
 | | |
 | | |
 | | |
