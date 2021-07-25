@@ -14,6 +14,7 @@
 - Added extra caution for SUSE users, updated script to pull ClefOS data [PR 54](https://github.com/openmainframeproject/software-discovery-tool/pull/54)
 - Update FAQ page with relevant information changes through [PR 58](https://github.com/openmainframeproject/software-discovery-tool/pull/58) and [PR 59](https://github.com/openmainframeproject/software-discovery-tool/pull/59)
 
+![UI Update](images/week08ui_new.png)
 ### List of Milestones to be completed and anticipated date (indicate which ones are in danger of not being met) 
 
 ### List of issues, problems, or concern(s)
