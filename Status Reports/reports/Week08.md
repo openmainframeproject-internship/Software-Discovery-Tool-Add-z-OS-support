@@ -1,4 +1,4 @@
-# Software Discovery Tool Weekly Report: Week 7
+# Software Discovery Tool Weekly Report: Week 8
 
 ## 12 - 16 July 2021
 
