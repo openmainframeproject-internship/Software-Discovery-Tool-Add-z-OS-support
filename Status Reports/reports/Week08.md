@@ -1,6 +1,6 @@
 # Software Discovery Tool Weekly Report: Week 8
 
-## 12 - 16 July 2021
+## 19 - 24 July 2021
 
 ### Project Members
 
