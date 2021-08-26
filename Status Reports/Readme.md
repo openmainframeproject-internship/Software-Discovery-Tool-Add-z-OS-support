@@ -15,14 +15,6 @@ Status Report Template: https://github.com/openmainframeproject-internship/resou
 | [Week 7 Status Report](reports/Week07.md) | ClefOS data import done, automate script added | Week07.md |
 | [Week 8 Status Report](reports/Week08.md) | UI updates with FAQ improvements | Week08.md |
 | [Week 9 Status Report](reports/Week09.md) | SUSE data lists added, test CI/CD done | Week09.md |
-| Week 10 Status Report | | |
-| Week 11 Status Report | | |
+| [Week 10 Status Report](reports/Week10.md) | Fedora data added, updated distro script | |
+| [Week 11 Status Report](reports/Week11.md) | Successful test deployment with deploy repo | |
 | Week 12 Status Report | | |
-| Week 13 Status Report | | |
-| Week 14 Status Report | | |
-| Week 15 Status Report | | |
-| Week 16 Status Report | | |
-| Week 17 Status Report | | |
-| Week 18 Status Report | | |
-| Week 19 Status Report | | |
-| Week 20 Status Report | | |
