@@ -9,7 +9,7 @@
  * Divya Goswami (Student)
 
 ### Accomplishments for the week
-- Tested deployment on deploy repo, successful through [Commit](https://github.com/rachejazz/software-discovery-tool-deploy/commit/5c4d7b8a24fee5132c03b2187a0edfb5b91853f1)
+- Tested deployment on deploy repo, successful through [File](https://github.com/rachejazz/software-discovery-tool-deploy/blob/deploy1/.github/workflows/cicd.yml)
 
 ### List of Milestones to be completed and anticipated date (indicate which ones are in danger of not being met) 
 
