@@ -17,4 +17,4 @@ Status Report Template: https://github.com/openmainframeproject-internship/resou
 | [Week 9 Status Report](reports/Week09.md) | SUSE data lists added, test CI/CD done | Week09.md |
 | [Week 10 Status Report](reports/Week10.md) | Fedora data added, updated distro script | Week10.md |
 | [Week 11 Status Report](reports/Week11.md) | Successful test deployment with deploy repo | Week11.md |
-| Week 12 Status Report | | |
+| [Week 12 Status Report](reports/Week12.md) | Debian Bullseye sources integrated | Week12.md |
